@@ -1,48 +1,76 @@
-# 👋 Hi, I'm Anuj!
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Anuj1131">Anuj</a>!</h1>
+<h3 align="center">🛡️ Security Enthusiast | 🚀 DevSecOps Explorer</h3>
 
-### 🛡️ Security Enthusiast | 🚀 DevSecOps Learner
-
-Welcome to my GitHub profile! I'm passionate about making applications secure and robust, and I'm currently diving deep into the world of DevSecOps. My journey is all about combining development, security, and operations to build solutions that are both innovative and safe.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DevSecOps-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20%26%20Automation-green?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Anuj1131&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 💫 About Me  
+🔹 Passionate about building **secure & robust applications**  
+🔹 Exploring **DevSecOps**, Cloud Security, and Automation  
+🔹 Love blending development, operations, and security to create impactful solutions  
 
-- **Languages:** Python, Java, HTML, CSS
-- **Core Concepts:** Data Structures & Algorithms (DSA)
-- **Interests:** Application Security, Automation, DevSecOps practices
+> “Security is not a product, it’s a process.” – Bruce Schneier  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### 📚 Core Concepts
+- Data Structures & Algorithms  
+- Application Security  
+- Automation Workflows  
+
+### 🔐 Interests
+- DevSecOps Practices  
+- Secure CI/CD Pipelines  
+- Cloud & Infrastructure Security  
 
 ---
 
 ## 🌟 Featured Projects
 
-- [Typing Speed Test](https://github.com/Anuj1131/Typing-speed-test):  
-  An online application for gauging and improving your typing speed. Built with a keen eye on usability and performance.
-
-- [DEVSECOPS-LAB-SUBMISSION-JULY-DEC-2025](https://github.com/Anuj1131/DEVSECOPS-LAB-SUBMISSION-JULY-DEC-2025):  
-  Hands-on DevSecOps lab projects and submissions documenting my progress and learning in the field.
-
-- [DEVSECOPS-MAVEN-REPO](https://github.com/Anuj1131/DEVSECOPS-MAVEN-REPO):  
-  A Maven-based project repository focused on secure development and deployment pipelines.
-
-- [Currency Converter](https://github.com/DevankSilswal/currency-converter):  
-  A practical online utility for real-time currency conversion, designed for commercial application scenarios.
+| Project | Description |
+|---------|-------------|
+| [**Typing Speed Test**](https://github.com/Anuj1131/Typing-speed-test) | 🖋️ Online app to test & improve typing speed |
+| [**DEVSECOPS LAB (July–Dec 2025)**](https://github.com/Anuj1131/DEVSECOPS-LAB-SUBMISSION-JULY-DEC-2025) | 📚 Hands-on labs documenting DevSecOps learning |
+| [**Maven Repo – DevSecOps**](https://github.com/Anuj1131/DEVSECOPS-MAVEN-REPO) | 🏗️ Maven-based secure development pipelines |
+| [**Currency Converter**](https://github.com/DevankSilswal/currency-converter) | 💱 Real-time currency conversion tool |
 
 ---
 
-## 📈 What I'm Up To
-
-- Expanding my expertise in DevSecOps tools and methodologies
-- Exploring cloud security and automation
-- Building and securing online commercial applications
-
----
-
-<!-- Optionally, add your social links here if you want -->
+## 🚀 Current Focus
+- Sharpening skills in **DevSecOps & Cloud Security**  
+- Designing automation for **secure deployments**  
+- Contributing to **open-source security tools**
 
 ---
 
-<!-- Fun fact, quote, or personal message -->
-> "Security is not a product, but a process." – Bruce Schneier
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuj1131&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj1131&layout=compact&theme=radical" height="160" />
+</p>
 
-Thanks for visiting! Feel free to connect, collaborate, or check out my projects.
+---
+
+## 🤝 Connect with Me
+<p align="center">
+  <a href="mailto:anuj@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/anuj-negi/"><img src="https://img.shields.io/badge/LinkedIn-Anuj%20Negi-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+---
+
+⭐️ *If you like my work, consider giving a star to my projects or connecting with me!*
