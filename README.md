@@ -8,7 +8,7 @@
 ### 💡 About Me
 - 🚀 Passionate about **Web Development, Java & DevOps**  
 - 🏸 Professional **Badminton Player** who loves coding off-court  
-- 🌱 Currently learning **Cloud & CI/CD pipelines**  
+- 🌱 Currently learning **Devsecops**  
 - 🎯 Always excited to explore **new technologies & tools**
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🚀 Featured Projects
 - **📌 [Smart Notes App](#)** – A simple note-taking web app with Markdown support  
-- **📌 [DevOps Pipeline Demo](#)** – CI/CD pipeline built with Jenkins & Docker  
+- **📌 [Typing Speed Test](#)** – Finds your fingers strength   
 - **📌 [Java File I/O Toolkit](#)** – Utility library for handling files in Java  
 
 > *(Replace `#` with links to your actual repositories.)*
@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=🙏%20Thank%20You%20for%20Visiting!&fontSize=25" />
 </p>
