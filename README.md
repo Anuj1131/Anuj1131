@@ -1,76 +1,47 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Anuj1131">Anuj</a>!</h1>
-<h3 align="center">🛡️ Security Enthusiast | 🚀 DevSecOps Explorer</h3>
-
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DevSecOps-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Cloud%20%26%20Automation-green?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Anuj1131&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Hi,%20I'm%20Anuj%20Negi&fontSize=35&fontAlignY=35&desc=A%20Passionate%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50" />
 </p>
 
 ---
 
-## 💫 About Me  
-🔹 Passionate about building **secure & robust applications**  
-🔹 Exploring **DevSecOps**, Cloud Security, and Automation  
-🔹 Love blending development, operations, and security to create impactful solutions  
-
-> “Security is not a product, it’s a process.” – Bruce Schneier  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### 📚 Core Concepts
-- Data Structures & Algorithms  
-- Application Security  
-- Automation Workflows  
-
-### 🔐 Interests
-- DevSecOps Practices  
-- Secure CI/CD Pipelines  
-- Cloud & Infrastructure Security  
+### 💡 About Me
+- 🚀 Passionate about **Web Development, Java & DevOps**  
+- 🏸 Professional **Badminton Player** who loves coding off-court  
+- 🌱 Currently learning **Cloud & CI/CD pipelines**  
+- 🎯 Always excited to explore **new technologies & tools**
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Typing Speed Test**](https://github.com/Anuj1131/Typing-speed-test) | 🖋️ Online app to test & improve typing speed |
-| [**DEVSECOPS LAB (July–Dec 2025)**](https://github.com/Anuj1131/DEVSECOPS-LAB-SUBMISSION-JULY-DEC-2025) | 📚 Hands-on labs documenting DevSecOps learning |
-| [**Maven Repo – DevSecOps**](https://github.com/Anuj1131/DEVSECOPS-MAVEN-REPO) | 🏗️ Maven-based secure development pipelines |
-| [**Currency Converter**](https://github.com/DevankSilswal/currency-converter) | 💱 Real-time currency conversion tool |
-
----
-
-## 🚀 Current Focus
-- Sharpening skills in **DevSecOps & Cloud Security**  
-- Designing automation for **secure deployments**  
-- Contributing to **open-source security tools**
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuj1131&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj1131&layout=compact&theme=radical" height="160" />
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
-<p align="center">
-  <a href="mailto:anuj@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/anuj-negi/"><img src="https://img.shields.io/badge/LinkedIn-Anuj%20Negi-blue?style=flat-square&logo=linkedin"></a>
-</p>
+### 🚀 Featured Projects
+- **📌 [Smart Notes App](#)** – A simple note-taking web app with Markdown support  
+- **📌 [DevOps Pipeline Demo](#)** – CI/CD pipeline built with Jenkins & Docker  
+- **📌 [Java File I/O Toolkit](#)** – Utility library for handling files in Java  
+
+> *(Replace `#` with links to your actual repositories.)*
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my projects or connecting with me!*
+### ✨ Fun Facts
+- 🏸 I’ve represented my college in badminton tournaments  
+- 🎨 I enjoy creating clean, minimal UI designs  
+- ☕ Coffee is my fuel while debugging!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
