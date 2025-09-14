@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=👋%20Thanks%20for%20stopping%20by!&fontColor=000000&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=✨%20Appreciate%20your%20visit%20—%20stay%20connected!&fontColor=000000&fontSize=27" />
 </p>
